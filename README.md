@@ -49,14 +49,6 @@ Bank-Management-System--master/
 4. **Run the Project**:
    - ▶️ Launch the application from the main class (e.g., `main_Class.java`).
 
-## 🖼️ Screenshots
-
-*(Include GUI screenshots if available)*
-
 ## 👨‍💻 Author
 
-- **Your Name** – [Your Profile or Email]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Krishna Shelar** – [krishnashelar790@gmail.com]
